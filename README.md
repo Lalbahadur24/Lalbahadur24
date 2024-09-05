@@ -1,6 +1,3 @@
-Here's the updated version of your GitHub profile README:
-
-```markdown
 # Hi, I'm Lal Bahadur Lohar! 👋
 
 ## 🚀 About Me
@@ -25,6 +22,3 @@ Here's the updated version of your GitHub profile README:
 
 ## ⚡ Fun Fact
 I love exploring the intersection of AI and real-world applications to create impactful solutions using data-driven insights.
-```
-
-This now reflects your current focus on AI, ML, and web development projects! Let me know if you'd like any further adjustments.
